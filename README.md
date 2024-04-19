@@ -15,4 +15,4 @@ Contributions to this repository are highly encouraged! Whether you want to add 
 # Colabrator
 Krunalkumar Solanki & Rohan Savaliya
 
-git clone https://github.com/your-lifeofkrunal/time-series-forecasting-nllm.git
+git clone https://github.com/lifeofkrunal/time-series-forecasting-nllm.git
